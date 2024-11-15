@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* button{
+width: Hug (173px)px;
+height: Hug (47px)px;
+top: 13px;
+left: 1198px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: #F44335;
+;
+//styleName: Body/Large;
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+} */
